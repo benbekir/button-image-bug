@@ -3,3 +3,6 @@ button-image-bug/.vs
 button-image-bug/*/bin
 button-image-bug/*/obj
 button-image-bug/*/*.csproj.user
+obj
+bin
+.vs
